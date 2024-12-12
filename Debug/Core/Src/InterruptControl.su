@@ -1,0 +1,5 @@
+../Core/Src/InterruptControl.c:9:6:interruptEnable	24	static
+../Core/Src/InterruptControl.c:19:6:interruptDisable	24	static
+../Core/Src/InterruptControl.c:29:6:interruptClearPending	24	static
+../Core/Src/InterruptControl.c:39:6:interruptSetPending	24	static
+../Core/Src/InterruptControl.c:49:6:EXTIClear	16	static
